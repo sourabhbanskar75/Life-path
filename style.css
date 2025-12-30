@@ -1,0 +1,28 @@
+body {
+  font-family: Arial;
+  text-align: center;
+  background: #f5f7fa;
+}
+
+h1 {
+  color: #1e90ff;
+}
+
+button {
+  padding: 10px 20px;
+  background: #1e90ff;
+  color: white;
+  border: none;
+}
+p {
+  font-size: 18px;
+}
+.btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 12px 25px;
+  background: #1e90ff;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
